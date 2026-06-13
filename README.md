@@ -4,7 +4,7 @@ Practicing Flexbox layouts and responsive design.
  A simple landing page built using HTML and CSS Flexbox.
 
  #preview
- ![project screenshot](images/screenshot.png) ![project screenshot](images/screenshot2.png)
+ images/screenshot.png & screenshot2.png
  
 Features
 - Responsive Layout
